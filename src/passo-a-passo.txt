@@ -1,0 +1,8 @@
+     Caminho do JavaScript :
+
+Selecionar todos os números e operadores com seus respectivos atributos e chama-lós no js.
+
+Chamar uma class para criar um objeto, passando para ele os elementos de texto, manipulando-os para que receba os 'valores' 
+
+Clear - atualiza os dados da pastas;
+UpdateDisplay - utilizando o innerText atualiza os elementos do texto(estilização);
